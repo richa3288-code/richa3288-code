@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I’m Richa 👋  
+
+I work as an automation tester and use this GitHub to track my learning and hands-on practice.  
+
+**Professional focus:** Selenium automation with Python, SAP Tosca, and maintaining regression suites in Agile projects.  
+
+You’ll find small automation projects, practice scripts, and testing notes here.  
+
+I’m continuously improving my skills in Git, GitHub, and CI basics.  
+
+Thanks for visiting 🙂
 
 <!--
 **richa3288-code/richa3288-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
